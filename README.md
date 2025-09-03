@@ -18,3 +18,4 @@ matériel:
 
 
 
+Le programme resnet50 gère le transfer learning.
