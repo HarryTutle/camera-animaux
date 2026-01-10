@@ -19,3 +19,5 @@ matériel:
 
 
 Le programme resnet50 gère le transfer learning.
+
+Il reste à ajouter le céclenchement automatique du mode nocturne de la camera, avec l'ajout d'une photorésistance.
