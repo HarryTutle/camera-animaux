@@ -23,3 +23,7 @@ Le programme resnet50 gère le transfer learning.
 Il reste à ajouter le céclenchement automatique du mode nocturne de la camera, avec l'ajout d'une photorésistance.
 
 Important: la caméra fonctionne par contraste, il faut l'installer face à des arbres. Elle est entrainée à distinguer ses classes par contraste avec les arbres. Si elle est placée face à autre chose il peut y avoir des bugs.
+
+
+![1768044470997](https://github.com/user-attachments/assets/e12a770d-10d6-4148-a166-858812437494)
+
