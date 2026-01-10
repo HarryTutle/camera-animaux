@@ -27,3 +27,6 @@ Important: la caméra fonctionne par contraste, il faut l'installer face à des 
 
 ![1768044470997](https://github.com/user-attachments/assets/e12a770d-10d6-4148-a166-858812437494)
 
+![1768044470982](https://github.com/user-attachments/assets/87498bcf-cb1b-4c14-b82e-3cf82660376f)
+
+
